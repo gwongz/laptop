@@ -5,7 +5,8 @@
 SEEKRET_DEFAULT_RULES="
 aws.rule
 newrelic.rule
-mandrill.rule"
+mandrill.rule
+slack.rule"
 
 if [ -d ./seekret-rules ]
 then
