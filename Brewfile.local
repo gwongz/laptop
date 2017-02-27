@@ -10,6 +10,7 @@ cask 'tidal'
 
 brew 'ctags'
 brew 'direnv'
+brew 'gnupg2'
 brew 'pass'
 brew 'reattach-to-user-namespace'
 brew 'tmux'
